@@ -15,6 +15,18 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+- `ukb-dt`: January 28, 2026
+- `cryo-pyro`: Februaru 16, 2026
+- `ukb-pyro`: TBA
+- `eplnm`
+- `jhufena`
+- `pairs-jh`
+- `jhustata`
+- `muzaale`
+- `abikesa`
+- `jhurepos`
+- `ukubona-llc`
+
 # G
 This is a powerful conceptual framework. To make the website **coherent**, we need to bridge the gap between the abstract philosophy (SGD, ants, raindrops) and the concrete entities (Person, Ministry of Health).
 
